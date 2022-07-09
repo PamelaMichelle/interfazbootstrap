@@ -129,13 +129,13 @@ box-shadow: 15px 15px 40px rgba(0,0,0,0.15);
     width: 60px;
     
 }
-/*
+
 .imgcarousel{
-    max-height: 70vh;
+    height: 70px;
     object-fit: cover;
     filter:sepia(30%);
 
-}*/
+}
 .carousel{
     height: 30%;
  
