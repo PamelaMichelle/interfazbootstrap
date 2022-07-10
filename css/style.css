@@ -19,8 +19,9 @@
 }
 .carousel-caption p{
 width: 60%;
+
 margin:auto;
-font-size: 10px;
+font-size: 20px;
 line-height: 1.9;
 }
 .carousel-inner::before{
@@ -62,10 +63,11 @@ line-height: 1.9;
 .title h2{
     margin-top:50px;
    margin-left: 30%;
+   justify-items: center; 
 }
 .img-logo{
-    width: 70px;
-    height:70px;
+    width: 90px;
+    height:90px;
 }
 .img-redes{
     width: 30px;
@@ -74,6 +76,17 @@ line-height: 1.9;
 .contact{
     margin-top: 50px;
 }
+.title h4{
+    margin-top:50px;
+    margin-left: 30%; 
+    justify-items: center; 
+}
+.title h3{
+    margin-top:50px;
+    margin-left: 50%; 
+    justify-items: center; 
+}
+
 
 /*===responsive css===*/
 @media only screen and(min-width:768px) and (mas-width:991px){
@@ -97,6 +110,7 @@ bottom: 370px;
 .img-redes{
     width: 30px;
     height:30px;
+   
 }
 
 
