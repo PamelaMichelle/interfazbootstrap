@@ -1,0 +1,57 @@
+#body{
+    margin: 0;
+    padding: 0;
+}
+#main .carousel-iner img{
+    max-height: 80vh;
+    object-fit:cover;
+    filter:grayscale(80%)
+}
+#carousel{
+    position: relative;
+}
+#carousel .overlay{
+    position: absolute; /*se adapte al carousel*/
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right:0px;
+    background-color: rgba(0,0,0,0.5);
+    color:white;
+}
+#header{
+    background-color:#303E40;
+    font-family: 'Open Sans',  sans-serif;
+}
+#header a{
+    color:white;
+}
+#logo{
+max-width: 80px;
+max-height: 80px;
+}
+.overlay{    
+    position: absolute;    
+    letter-spacing: 2px;
+    text-align: right;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;    
+    background-color: rgba(0,0,0, 0.8);
+    color: white;
+}   
+#boton-alterno{
+    margin-top:25px;
+}
+#evento-marca{
+background-color:#F2EADF;
+color:#0D0D0D;
+}
+#evento-marca img{
+max-width:100%;
+}
+
+#footer{
+    background-color:#8c8c8c;
+}
