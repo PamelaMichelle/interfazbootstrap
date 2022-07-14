@@ -1,2 +1,2 @@
 # interfazbootstrap
-crearemos un proyecto de calzado utilizando bootstrap 
+crearemos un proyecto  utilizando bootstrap 
